@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+hello word
+=======
+hello all world:
+>>>>>>> iss1
